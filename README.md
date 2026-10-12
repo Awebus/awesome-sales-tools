@@ -119,6 +119,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [MailReach](https://www.mailreach.co) - Mailbox warm-up service with spam testing. Run automated warm-up activity and test whether messages reach the inbox.
 - [Mailreef](https://www.mailreef.com) - Managed email infrastructure on dedicated servers and IPs. Set up outbound domains and mailboxes on infrastructure reserved for your sending.
 - [MxToolbox](https://mxtoolbox.com) - Email and DNS diagnostics with paid monitoring. Investigate blocklist entries, domain configuration and mail delivery problems.
+- [Warmerly](https://warmerly.com) - Email warm-up with daily SPF, DKIM and DMARC monitoring and inbox placement tests. Warm up mailboxes, catch authentication problems and check where test messages land.
 
 ## Sales Dialers and Cloud Telephony
 
